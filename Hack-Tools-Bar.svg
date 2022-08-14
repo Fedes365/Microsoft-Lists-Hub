@@ -1,0 +1,33 @@
+<svg viewBox="0 0 728 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="403.124" y1="25" x2="403.124" y2="125" id="gradient-0" gradientTransform="matrix(0.009187, 0.559984, -6.510443, 0.019101, 885.998047, -146.485275)">
+      <stop offset="0" style="stop-color: rgb(192, 106, 186);"></stop>
+      <stop offset="0.465" style="stop-color: rgb(146, 81, 142);"></stop>
+      <stop offset="1" style="stop-color: rgb(117, 66, 114);"></stop>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -0.000001, -49)">
+    <rect y="51" width="722.526" height="56" rx="4" ry="4" style="stroke: rgb(82, 80, 80); fill: url(#gradient-0);" x="2.737"></rect>
+    <text style="fill: rgb(255, 255, 255); font-family: &quot;Segoe UI&quot;, sans-serif; font-size: 30.4348px; font-weight: 700; line-height: 38.2609px; white-space: pre;" transform="matrix(0.92, 0, 0, 0.92, -129.466629, 5.431248)"><tspan x="163.489" y="91.695">Hacks and Tools</tspan><tspan x="163.48899841308594" dy="1em">​</tspan><tspan x="163.48899841308594" dy="1em">​</tspan></text>
+  </g>
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="38.7" y1="62.5" x2="38.7" y2="122.9034" gradientTransform="matrix(0.4, 0, 0, 0.4, 13.243402, 61.160698)">
+    <stop offset="0" style="stop-color:#DE4A01"></stop>
+    <stop offset="1" style="stop-color:#E15900"></stop>
+  </linearGradient>
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="156.25" y1="118.6523" x2="156.25" y2="68.182" gradientTransform="matrix(0.4, 0, 0, 0.4, 13.243402, 61.160698)">
+    <stop offset="0" style="stop-color:#F08B09"></stop>
+    <stop offset="1" style="stop-color:#EB770A"></stop>
+  </linearGradient>
+  <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="149.4" y1="199.4" x2="149.4" y2="125" gradientTransform="matrix(0.4, 0, 0, 0.4, 13.243402, 61.160698)">
+    <stop offset="0" style="stop-color:#D73A00"></stop>
+    <stop offset="1" style="stop-color:#CD2901"></stop>
+  </linearGradient>
+  <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="31.25" y1="183.4025" x2="31.25" y2="128.5908" gradientTransform="matrix(0.4, 0, 0, 0.4, 13.243402, 61.160698)">
+    <stop offset="0" style="stop-color:#BE3106"></stop>
+    <stop offset="1" style="stop-color:#AD3007"></stop>
+  </linearGradient>
+  <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="31.25" y1="249.9" x2="31.25" y2="187.4" gradientTransform="matrix(0.4, 0, 0, 0.4, 13.243402, 61.160698)">
+    <stop offset="0" style="stop-color:#6F3C6D"></stop>
+    <stop offset="1" style="stop-color:#663764"></stop>
+  </linearGradient>
+</svg>
