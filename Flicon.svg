@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 100" width="100px" height="100px" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <rect width="100" height="100" rx="8" ry="8" style="stroke-width: 2px; fill: rgb(0, 120, 212); stroke: rgb(0, 79, 140);"></rect>
+  <text style="fill: rgb(0, 79, 140); font-family: Arial, sans-serif; font-size: 76px; font-weight: 700; white-space: pre;" x="32.655" y="76.26">F</text>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 76px; font-weight: 700; white-space: pre;" x="26.787" y="76.26">F</text>
+</svg>
