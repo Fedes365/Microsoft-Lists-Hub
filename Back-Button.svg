@@ -1,7 +1,7 @@
-<svg viewBox="0 0 500 178" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 128 50" width="128px" height="50px" xmlns="http://www.w3.org/2000/svg">
   <defs></defs>
-  <g transform="matrix(1, 0, 0, 1, 0, -161.000504)">
-    <rect y="161.863" width="500" height="176.275" rx="8" ry="8" style="stroke: rgba(0, 0, 0, 0); fill: rgb(49, 119, 216);"></rect>
-    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 91px; font-weight: 700; white-space: pre;" x="100.678" y="281.391">⯇Back</text>
+  <g transform="matrix(0.256, 0, 0, 0.256, -115.548172, -105.926857)">
+    <rect y="413.777" width="500" height="195.312" rx="12" ry="12" style="stroke: rgba(0, 0, 0, 0); fill: rgb(49, 119, 216);" x="451.36"></rect>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 111px; font-weight: 700; white-space: pre;" x="568.678" y="550.342">Back</text>
   </g>
 </svg>
