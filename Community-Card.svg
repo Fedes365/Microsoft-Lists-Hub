@@ -1,7 +1,7 @@
 <svg viewBox="0 0 298 160" xmlns="http://www.w3.org/2000/svg">
   <defs></defs>
   <rect width="294" height="154" rx="8" ry="8" style="stroke: rgb(132, 73, 128); fill: rgb(255, 255, 255); stroke-width: 5px;" y="3" x="2"></rect>
-  <text style="fill: rgb(126, 70, 122); font-family: &quot;Segoe UI&quot;, sans-serif; font-size: 37.1429px; font-weight: 700; line-height: 81.1538px; white-space: pre;" transform="matrix(0.7, 0, 0, 0.7, 297.214264, 69.674187)"><tspan x="-314.028" y="-36.957">Community</tspan><tspan x="-314.02801513671875" dy="1.2em">​</tspan></text>
+  <text style="fill: rgb(126, 70, 122); font-family: &quot;Segoe UI&quot;, sans-serif; font-size: 35.7143px; font-weight: 700; line-height: 81.1538px; white-space: pre;" transform="matrix(0.7, 0, 0, 0.7, 234.653549, 69.674187)"><tspan x="-314.028" y="-36.957">Community and Topics</tspan><tspan x="-314.028" dy="1.2em">​</tspan></text>
   <g transform="matrix(2.391304, 0, 0, 2.391304, 72.478271, 26.371164)">
     <linearGradient xmlns="http://www.w3.org/2000/svg" id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="30.759" x2="49.742" y1="22.585" y2="41.568">
       <stop offset="0" stop-color="#ffddf3"></stop>
