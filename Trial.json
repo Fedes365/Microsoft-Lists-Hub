@@ -1,0 +1,42 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
+  "elmType": "div",
+  "style": {
+    "box-sizing": "border-box",
+    "padding": "0 2px",
+    "overflow": "hidden",
+    "text-overflow": "ellipsis",
+    "height": "80px",
+    "width": "192px"
+  },
+  "attributes": {
+    "class": "sp-css-backgroundColor-BgCornflowerBlue sp-field-borderAllSemibold sp-field-borderAllSolid sp-css-borderColor-BlackText"
+  },
+  "children": [
+    {
+      "elmType": "span",
+      "style": {
+        "line-height": "16px",
+        "height": "14px",
+        "display": "inherit",
+        "margin-left": "8px"
+      },
+      "attributes": {
+        "iconName": "InfoSolid",
+        "class": "sp-css-color-DarkBlueText sp-field-fontSizeXLarge"
+      }
+    },
+    {
+      "elmType": "span",
+      "style": {
+        "overflow": "hidden",
+        "text-overflow": "ellipsis",
+        "padding": "0 24px"
+      },
+      "txtContent": "[$MYCOLUMN]",
+      "attributes": {
+        "class": "sp-field-fontSizeXLarge sp-css-color-BlackText sp-field-bold sp-field-italic"
+      }
+    }
+  ]
+}
